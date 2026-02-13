@@ -16,6 +16,9 @@ git add .
 git commit -m "First commit"
 git push
 
+### if git disconnects
+git config --global http.postBuffer 524288000
+
 ### Create virtual for python
 python -m venv venv 
 source venv/bin/activate
