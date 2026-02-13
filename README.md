@@ -31,5 +31,13 @@ http://youtube.com/watch?v=zWMeRrdol0c
 https://automationstepbystep.com/
 https://www.youtube.com/watch?v=LNonZFOvLjc
 
+## Mock API endpoints
+https://formatjsononline.com/dummy-api
+## What is an API
+https://www.ibm.com/think/topics/rest-apis
+
+## Pytest
+https://www.tutorialspoint.com/pytest/index.htm
+
 
 
